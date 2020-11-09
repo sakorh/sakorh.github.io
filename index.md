@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/IMG_0535.JPG" alt="Photo" hspace="20" width="30%" align="right"/> Hello! I am a third-year student at the University of Helsinki, majoring in linguistics with an interest in language technology. My other interests include computer science, which I am taking as a minor study. On my free time I enjoy dancing, mainly different street styles, learning new languages and travelling. I'm also a big nature lover, and can't spend too much time in the city at once without needing a long break to go hike through forests and climb mountains far away from everything else.
+<img src="assets/images/IMG_0535.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Hello! I am a third-year student at the University of Helsinki, majoring in linguistics with an interest in language technology. My other interests include computer science, which I am taking as a minor study. On my free time I enjoy dancing, mainly different street styles, learning new languages and travelling. I'm also a big nature lover, and can't spend too much time in the city at once without needing a long break to go hike through forests and climb mountains far away from everything else.
 
 ## Find me on
 
