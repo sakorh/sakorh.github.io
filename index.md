@@ -35,8 +35,9 @@ My email address is salla.x.korhonen@helsinki.fi.
 ## Projects
 
 [cmdline-course](https://github.com/sakorh/cmdline-course)
+
 A project done during the Command line tools for linguists course, which can be used to transform books into different formats such as word frequency lists or into a sentence per line format. 
 
 ## Misc. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+[For those in need of some positive energy](https://www.youtube.com/watch?v=gdZLi9oWNZg) 
